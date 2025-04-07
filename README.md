@@ -42,3 +42,5 @@ This extension empowers users to identify time-wasting patterns and take control
 
 #ouput
 
+![Image](https://github.com/user-attachments/assets/84a815db-6a55-439e-bce7-251fcdd4515e)
+
